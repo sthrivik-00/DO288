@@ -1,0 +1,1 @@
+oc new-app --name=mynginx https://github.com/sthrivik-00/DO288#master --context-dir=labs/ch2-AdvContainers
